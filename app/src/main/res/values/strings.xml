@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mi Diabetes</string>
+    <string name="name">Nombre</string>
+    <string name="email">E-mail</string>
+    <string name="pass">Contraseña</string>
+    <string name="regis">Registrarse</string>
+    <string name="ing">Ingresar valores</string>
+    <string name="hemo">Hemoglobina A1c</string>
+    <string name="his">Histórico</string>
+    <string name="cons">Consultar valores</string>
+    <string name="ce">Cerrar sesión</string>
+    <string name="valor">Valor</string>
+    <string name="hora">Hora</string>
+    <string name="fecha">Fecha</string>
+    <string name="valor2">Valor:</string>
+    <string name="hora2">Hora:</string>
+    <string name="home">Home</string>
+</resources>

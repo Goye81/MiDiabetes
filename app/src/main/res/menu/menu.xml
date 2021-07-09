@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/ing"
+        android:title="@string/ing" />
+    <item
+        android:id="@+id/hemo"
+        android:title="@string/hemo" />
+    <item
+        android:id="@+id/his"
+        android:title="@string/his" />
+    <item
+        android:id="@+id/con"
+        android:title="@string/cons" />
+    <item
+        android:id="@+id/cer"
+        android:title="@string/ce" />
+</menu>
